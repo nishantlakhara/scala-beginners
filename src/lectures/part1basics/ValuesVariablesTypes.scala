@@ -9,7 +9,7 @@ object ValuesVariablesTypes extends App {
   println(x)
 
   // VALS ARE IMMUTABLE
-
+  // x = 2
   // COMPILER can infer types
 
   val aString: String = "hello"
